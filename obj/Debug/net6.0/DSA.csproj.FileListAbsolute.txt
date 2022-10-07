@@ -1,0 +1,15 @@
+C:\development\Learning\DSA-in-C-sharp\DSA\bin\Debug\net6.0\DSA.exe
+C:\development\Learning\DSA-in-C-sharp\DSA\bin\Debug\net6.0\DSA.deps.json
+C:\development\Learning\DSA-in-C-sharp\DSA\bin\Debug\net6.0\DSA.runtimeconfig.json
+C:\development\Learning\DSA-in-C-sharp\DSA\bin\Debug\net6.0\DSA.dll
+C:\development\Learning\DSA-in-C-sharp\DSA\bin\Debug\net6.0\DSA.pdb
+C:\development\Learning\DSA-in-C-sharp\DSA\obj\Debug\net6.0\DSA.csproj.AssemblyReference.cache
+C:\development\Learning\DSA-in-C-sharp\DSA\obj\Debug\net6.0\DSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\development\Learning\DSA-in-C-sharp\DSA\obj\Debug\net6.0\DSA.AssemblyInfoInputs.cache
+C:\development\Learning\DSA-in-C-sharp\DSA\obj\Debug\net6.0\DSA.AssemblyInfo.cs
+C:\development\Learning\DSA-in-C-sharp\DSA\obj\Debug\net6.0\DSA.csproj.CoreCompileInputs.cache
+C:\development\Learning\DSA-in-C-sharp\DSA\obj\Debug\net6.0\DSA.dll
+C:\development\Learning\DSA-in-C-sharp\DSA\obj\Debug\net6.0\refint\DSA.dll
+C:\development\Learning\DSA-in-C-sharp\DSA\obj\Debug\net6.0\DSA.pdb
+C:\development\Learning\DSA-in-C-sharp\DSA\obj\Debug\net6.0\DSA.genruntimeconfig.cache
+C:\development\Learning\DSA-in-C-sharp\DSA\obj\Debug\net6.0\ref\DSA.dll
